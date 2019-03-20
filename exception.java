@@ -27,7 +27,7 @@ public class exception
     catch(Exception e)
     
     {
-        System.out.println("Ahhh! Looks li You are dividing by zero ");
+        System.out.println("Ahhh! Looks like You are dividing by zero ");
     }
 }
 }
